@@ -36,6 +36,10 @@ def app():
             ''')
             
             
+              # Another1
+        with st.beta_expander('• Correlation of the Data'):
+            image = Image.open('correlation.jpeg')
+            st.image(image , caption='')
             
 
 
