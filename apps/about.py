@@ -16,7 +16,7 @@ def app():
         st.markdown('''
         
     
-    We think with help of our data we can figure out if a patient has a heart disease or not. For this we are using Machine Learning and Feature Engineering.
+    We think that the with help of our data we can figure out if a patient has a heart disease or not. For this we are using Machine Learning and Feature Engineering.
     
     
    ⬇️⬇️ This Project was created by 3 ***[Strive School](https://strive.school/)*** Students.⬇️⬇️
@@ -28,7 +28,7 @@ def app():
     
         if st.button('Click here'):
             st.balloons()
-            st.markdown("![Hello There](https://media3.giphy.com/media/fTI9mBoWLef8k/200w.webp?cid=ecf05e47zjdwnnnar41agsgibox4xavezp7ya6am6okj4b71&rid=200w.webp&ct=g)")
+            st.markdown("![Hello There](https://media1.giphy.com/media/i4MAH84pqe2m2aVojc/200w.webp?cid=ecf05e479ijit106tasvpbdg5q3t9xp548pxxrbj9iaa9qvb&rid=200w.webp&ct=g)")
             st.write('***The Developer Team***:')
             st.write('• Deniz Elci: [GitHub ](https://github.com/Deniz-shelby)&[ LinkedIn](https://www.linkedin.com/in/deniz-elci-2500b2205/)')
             st.write('• Sven Skyth Henriksen: [GitHub ](https://github.com/Sven-Skyth-Henriksen)&[ LinkedIn](https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/)')
