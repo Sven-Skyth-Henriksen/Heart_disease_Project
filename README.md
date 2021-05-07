@@ -7,9 +7,9 @@
 1. Clone the repository:
 
 ```
-$ git clone https://github.com/Sven-Skyth-Henriksen/Star_Wars_Project
+$ git clone https://github.com/Sven-Skyth-Henriksen/Heart_disease_Project
 
-$ cd Star_Wars_Project
+$ cd Heart_disease_Project
 ```
 
 2. Install dependencies:
