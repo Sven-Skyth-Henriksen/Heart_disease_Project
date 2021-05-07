@@ -2,7 +2,7 @@ from PIL import Image
 import streamlit as st
 from multiapp import MultiApp
 
-from apps import home, about, data, data_v, model# importing the apps here
+from apps import home, about, data, data_v, model # importing the apps here
 
 app = MultiApp()
 
