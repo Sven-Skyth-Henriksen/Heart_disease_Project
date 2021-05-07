@@ -25,7 +25,7 @@ st.markdown('Please select a page:')
 
 # Add all the application here
 app.add_app('Home', home.app)
-#app.add_app("About", about.app)
+app.add_app("About", about.app)
 #app.add_app("Data", data.app)
 #app.add_app('Galaxies Analysis', graph.app)
 #app.add_app('Planets Analysis', graph2.app)
