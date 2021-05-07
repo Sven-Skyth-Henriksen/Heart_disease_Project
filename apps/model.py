@@ -17,6 +17,8 @@ def app():
         
         
     with model:
-        uploaded_file = st.file_uploader("Choose a file")
+        st.markdown('Here you can download our model:')
+        st.markdown('***[Model](https://github.com/Sven-Skyth-Henriksen/Heart_disease_Project)***')
+        
         
            

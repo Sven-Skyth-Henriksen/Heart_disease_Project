@@ -11,7 +11,7 @@ app = MultiApp()
 st.markdown("![title gif](https://media3.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47yvu34geal6scw0t3ejyzo8e3dvlufof2vxhii7m2&rid=200w.webp&ct=g)")
 
 
-st.markdown(''' ## Welcome to our website''')
+st.markdown(''' ## Welcome to our streamlit''')
 st.text(' ')
 st.markdown('----------------------------------------------- ')
 st.text(' ')
